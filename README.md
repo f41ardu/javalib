@@ -6,4 +6,4 @@ More to come in a couple of weeks.
  
 ## stay tuned 
 
-### I'll back last weeko September and will continue this work  
+### I'll back last week of September and will continue this work  
