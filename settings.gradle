@@ -8,4 +8,6 @@
  */
 
 rootProject.name = 'javalib'
-include('lib')
+/*include('lib')
+*/
+
